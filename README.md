@@ -45,7 +45,7 @@ npm run build
 ```
 npm run lint
 ```
-## 📫 Contributing for NUX
+## 📫 Contributing 
 
 To contribute, follow these steps:
 
