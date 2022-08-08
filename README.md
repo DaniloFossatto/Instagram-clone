@@ -2,7 +2,7 @@
 <br>
 <div align="center">
 
-  🚧 UNDER DEVELOPMENT 🚧 
+  
   
 ![Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -12,7 +12,7 @@
 </div>
 
 
-![gif](./nux/public/assets/nux.gif)
+![gif](./src/images/insta.gif)
 
 
 ## 💻 Prerequisites
